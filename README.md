@@ -4,7 +4,7 @@
 
 
   - [Active Directory Home Lab](https://github.com/alexander-d-butler/Active-Directory-Home-Lab/tree/main)
-  - [Active Bulk User Creation](https://github.com/alexander-d-butler/Active-Directory-Bulk-User-Creation)
+  - [Active Directory Bulk User Creation Script](https://github.com/alexander-d-butler/Active-Directory-Bulk-User-Creation)
 
 <h2>Certifications</h2>
 
